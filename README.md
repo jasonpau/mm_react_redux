@@ -1,4 +1,4 @@
-# Memory Match Game - React.js
+# Memory Match Game - React + Redux
 
-This is a version of my memory match game rebuilt in React.js. The original game was built using standard JavaScript, jQuery, and HTML/CSS.
+This is an experimental version of my memory match game, currently being refactored into React and Redux. The original game was built using standard JavaScript, jQuery, and HTML/CSS.
 
